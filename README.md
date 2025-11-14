@@ -47,17 +47,35 @@ const abdullah = {
 
 <br clear="right"/>
 
-<div align="center">
+### 💬 What I Can Help With
 
-### 🎯 Core Values
+<br/>
 
-| 🚀 Performance | 📐 Clean Code | 🔧 Scalability | 🎨 UX First |
-|:---:|:---:|:---:|:---:|
-| Optimize Everything | MVC Architecture | Built to Scale | User-Centric Design |
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/color/96/000000/code.png" width="48px"/>
+  <br/><strong>Full-Stack Development</strong>
+  <br/><sub>Frontend & backend solutions</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/color/96/000000/bug.png" width="48px"/>
+  <br/><strong>Bug Fixing & Debugging</strong>
+  <br/><sub>Reliable & maintainable code</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/color/96/000000/add-file.png" width="48px"/>
+  <br/><strong>New Feature Development</strong>
+  <br/><sub>Enhancing application</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
+
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> Tech Stack
 
@@ -221,48 +239,7 @@ feature: Relationship-Aware Seeding
 
 ---
 
-```javascript
-const contact = {
-  email: "mohamedabdullah93@gmail.com",
-  linkedin: "muhammed-abdullah93",
-  availability: "✅ Available for freelance & full-time",
-  responseTime: "< 24 hours",
-  timezone: "SLST (UTC+5:30)",
-  preferredContact: "Email or LinkedIn"
-};
-
-// Let's collaborate! 🚀
-console.log("Always excited to discuss new projects!");
-```
 <br/><br/>
-
-### 💬 What I Can Help With
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/000000/code.png" width="48px"/>
-  <br/><strong>Full-Stack Development</strong>
-  <br/><sub>Frontend & backend solutions</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/000000/bug.png" width="48px"/>
-  <br/><strong>Bug Fixing & Debugging</strong>
-  <br/><sub>Reliable & maintainable code</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/000000/add-file.png" width="48px"/>
-  <br/><strong>New Feature Development</strong>
-  <br/><sub>Enhancing application</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
@@ -288,9 +265,6 @@ console.log("Always excited to discuss new projects!");
 
 <sub>⭐ From [Abdullah](https://github.com/abdullahiqbal93) with 💙</sub>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
 
