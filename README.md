@@ -11,7 +11,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Web+Development;MERN+Stack+Developer;Laravel+Developer;Freelance+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Freelance+Developer;Web+Developer;MERN+Stack+Developer;Laravel+Developer;" 
     alt="Typing Animation"
   />
 </h1>
